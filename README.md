@@ -15,73 +15,10 @@ Mess is a popular place where there is different food to eat, and their prices a
 •	To connect that application to a SQL Server Database for it to store data entered by the user.
 •	To apply the concepts learned in the Database Systems course
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # PROJECT BREAKDOWN:
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![11](https://user-images.githubusercontent.com/92660593/193563539-5af3b983-34d4-4cb7-9e05-4c0597afbb75.PNG)
 
 
 # PROJECT DESCRIPTION:
@@ -109,10 +46,6 @@ If we want a particular that to be deleted from the data base, we can also do th
 If we want to update a particular data, owner has entered wrong data in the database we can simple update that and for that we have created updating data function. We have created fetching functions for all tables. 
 
 
-
-
-
-
 # MAX PRICE / MIN PRICE FUNCTION:
 We used this function in FAST FOOD, DESI FOOD and DESSERT where the owner can get the max price food and min price. 
  
@@ -120,23 +53,30 @@ We used this function in FAST FOOD, DESI FOOD and DESSERT where the owner can ge
 
 •	The username and password are already saved in the database, by entering that in login form if the username and password matches the next form will be opened successfully. If not, it displays an error message.
 
- 
+![image](https://user-images.githubusercontent.com/92660593/193563333-d8db3723-a5d6-40e2-88a5-9fc22c787f97.png)
+
 •	Upon the login being successful, the user will be directed to the main menu of the application where they will be given multiple options which include menus of Fast food,  Desi food, Dessert, Owner Details, Delivery Details.
  
+ ![image](https://user-images.githubusercontent.com/92660593/193563369-a9e10185-790d-4b99-8d2b-11948e19b5fa.png)
+
 
 # DESI FOODS:
 
 •	The first buttons will have all details regarding desi foods available. Where the owner can insert, delete, update, fetch all the data. He can also get the max price and min price foods.
  
+![image](https://user-images.githubusercontent.com/92660593/193563395-ef3fc5ed-dc65-44f3-ab9f-c2b6330abe36.png)
  
 
 # FAST FOODS:
 •	The second buttons will have all details regarding fast foods available. Where the owner can insert, delete, update, fetch all the data. He can also get the max price and min price foods.
- 
+
+![image](https://user-images.githubusercontent.com/92660593/193563407-b8b10e50-8b80-4e9d-84e3-b5b1bc2109ec.png)
+
 
 # DESSERT:
 •	The third buttons will have all details regarding desserts available. Where the owner can insert, delete, update, fetch all the data. He can also get the max price and min price desserts. 
  
+![image](https://user-images.githubusercontent.com/92660593/193563432-de4812d9-ce62-4010-af4a-1a701c919680.png)
 
 
 
@@ -144,12 +84,15 @@ We used this function in FAST FOOD, DESI FOOD and DESSERT where the owner can ge
 
 # OWNER DETAILS:
 •	The fourth buttons will have all details regarding owners of mess management system. Where the owner can insert, delete, update, fetch all the data. 
- 
+
+![image](https://user-images.githubusercontent.com/92660593/193563456-7049f9ee-fa94-4121-aa27-bde6e6f2d270.png)
+
 
 # DELIVERY DETAILS:
 •	The fifth buttons will have all details regarding riders available. Where the owner can insert, delete, update, fetch all the data. 
 
- 
+ ![image](https://user-images.githubusercontent.com/92660593/193563474-88c8f7de-dec9-47b2-bb98-853324dc3224.png)
+
 
 # CONCLUSION:
 We were successful in creating a database application with all functionalities related to a mess management system. The owner can only login to the application, and he can perform multiple operations efficiently which include insertion, deletion, updating, fetching. 
